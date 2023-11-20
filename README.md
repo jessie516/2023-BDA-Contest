@@ -9,4 +9,3 @@
 - cj_empY
 - cj_empY_train
 - submission
-df

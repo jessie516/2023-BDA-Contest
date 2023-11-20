@@ -4,8 +4,8 @@
 - 2023 BDA Contest_EN.ipynb : in English
 - 2023 BDA Contest_KR.ipynb : in Korean
 - cj_category.csv
-- cj_empN
-- cj_empN_train
-- cj_empY
-- cj_empY_train
-- submission
+- cj_empN.csv
+- cj_empN_train.csv
+- cj_empY.csv
+- cj_empY_train.csv
+- submission.csv

@@ -1,5 +1,7 @@
 # Customer-analysis_Classification_BDA
 
+Customer analysis with purchasing items data from CJ the market
+
 - Customer analysis_BDA presentation.pdf
 - Customer analysis_BDA_EN.ipynb
 - Customer analysis_BDA_KR.ipynb

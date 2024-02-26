@@ -1,4 +1,4 @@
-# 2023_BDA_Contest
+# Customer-analysis_Classification_BDA
 
 - 2023 BDA Contest Presentation.pdf
 - 2023 BDA Contest_EN.ipynb : in English

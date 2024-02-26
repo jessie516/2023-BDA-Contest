@@ -1,6 +1,6 @@
 # Customer-analysis_Classification_BDA
 
-Customer analysis with purchasing items data from CJ the market
+Customer analysis with purchasing items data from CJ the market,training a classification model
 
 - Customer analysis_BDA presentation.pdf
 - Customer analysis_BDA_EN.ipynb

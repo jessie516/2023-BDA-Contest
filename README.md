@@ -1,8 +1,8 @@
 # Customer-analysis_Classification_BDA
 
-- Customer analysis_Classification presentation.pdf
-- 2023 BDA Contest_EN.ipynb
-- 2023 BDA Contest_KR.ipynb
+- Customer analysis_BDA presentation.pdf
+- Customer analysis_BDA_EN.ipynb
+- Customer analysis_BDA_KR.ipynb
 - cj_category.csv
 - cj_empN.csv
 - cj_empN_train.csv
